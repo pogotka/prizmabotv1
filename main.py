@@ -6,7 +6,7 @@ from telebot import types
 from string import Template
 
 
-bot = telebot.TeleBot('1913744856:AAGAOC85HAc9Q-_FFsdZXjgFRT0vz5QIazo')
+bot = telebot.TeleBot('URTOKEN')
 
 
 
